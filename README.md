@@ -1,9 +1,12 @@
-<h1> Hi I'm Shayaan 👋</h1>
+# Hi there, I'm Shayaan! 👋
 
-<p>I'm an undergraduate student exploring tech.</p>
+I'm a **Backend Developer** with a passion for building scalable and efficient systems. I'm constantly exploring new technologies and improving my skills to develop high-performance applications. Currently, I’m diving deep into backend architecture and learning how to build scalable applications 
 
-<p>I'm based in India 🌏</p>
+### 💻 Tech Stack:
+- **Backend Frameworks**: Spring Boot, Node.js, Express.js
+- **Databases**: MySQL, MongoDB, Redis
+- **Monitoring & Logging**: Prometheus, Grafana
+- **Tools**: Docker, Git
 
-<p>Working on my backend skills as of now 💻</p>
-
-<p>I'm also exploring computer vision.</p>
+### 🔗 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/shayaanfayaz)
