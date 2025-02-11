@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Shayaan Fayaz</h1>
 <h3 align="center">I'm a Backend Developer with a passion for building scalable and efficient systems. I'm constantly exploring new technologies and improving my skills to develop high-performance applications. Currently, I’m diving deep into backend architecture and learning how to build scalable applications</h3>
 
-- 🔭 I’m currently working on [a Competitive Programming Social Platform.](https://github.com/Shayaan-Fayaz/HH-platform)
-
 - 🌱 I’m currently learning **Spring Boot and Devops**
 
 - 📫 You can reach me **shayaanfayaz@gmail.com**
